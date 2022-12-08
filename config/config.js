@@ -42,8 +42,8 @@ export const about = {
 	title: "About me",
 	description: [
 		"중부대학교 정보보호학과 91813286 허현",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech. I’m sharing my programming journey on instagram, helping people who are just getting into the space of programming.",
-		"When I’m not programming, I focus on my hobbies which are: diary writing, doodling, meeting people and growing my network.",
+		"안녕하세요 저는 중부대학교에서 정보보학을 전공하고있는 허현이라고 합니다.",
+		"앞으로 저의 다양한 프로젝트와 활동을 이 사이트에 업데이트할 예정입니다!",
 	],
 }
 
@@ -73,12 +73,12 @@ export const projects = {
 				
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/star_book",
+					link: "https://github.com/hurhyeon/Nextshop",
 				},
 			]
 		},
 		{
-			title: "factor",
+			title: "Factor",
 			description: "bicycle project",
 			icons: [
 				{
@@ -94,7 +94,7 @@ export const projects = {
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/portfolio",
+					link: "https://github.com/hurhyeon",
 				},
 			]
 		},
@@ -121,7 +121,7 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "hur hyeon portfolio site",
+	title: "hurhyeon portfolio site",
 	
 	image: profile.src,
 }
@@ -133,23 +133,20 @@ export const links = {
 	cards: [
 		{
 			title: "My website",
-			link: "https://hashirshoaeb.com/",
+			link: "https://hurhyeon.com/",
 		},
-		{
-			title: "QuranTalk App",
-			link: "https://www.qurantalk.app/",
-		},
-		{
-			title: "StarBook App",
-			link: "https://starbook.dev/",
-		},
+		
 		{
 			title: "My GitHub",
-			link: "https://github.com/hashirshoaeb/",
+			link: "https://github.com/hurhyeon",
 		},
 		{
-			title: "My LinkedIn",
-			link: "https://www.linkedin.com/in/hashirshoaeb/",
+			title: "My Facebook",
+			link: "https://www.facebook.com/profile.php?id=100007428315047",
+		},
+		{
+			title: "My Instagram",
+			link: "https://www.instagram.com/guriguri_hyeon/",
 		},
 	]
 }
