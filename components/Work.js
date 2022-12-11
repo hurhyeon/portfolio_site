@@ -13,6 +13,7 @@ export const Skills = ({ title, cards }) => {
 							key={index}
 							title={value.title}
 							description={value.description}
+							icons={value.icons}
 							link={value.link} />
 					))}
 				</div>

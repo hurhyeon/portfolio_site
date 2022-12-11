@@ -1,6 +1,6 @@
 
 import profile from './profile.jpg';
-import {  faGithub,  } from '@fortawesome/free-brands-svg-icons';
+import {  faGithub, faInternetExplorer } from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
@@ -48,18 +48,23 @@ export const about = {
 }
 
 export const work = {
-	title: "What I do",
+	title: "Team project",
 	cards: [
 		{
-			title: "My goal",
-			description: "frontend, machine running",
-			icons: null,
+			title: "Factor",
+			description: "bicycle project",
+			icons: [
+				{
+					icon: faGithub,
+					link: "https://github.com/hurhyeon/Nextshop",
+				},
+				{
+					icon:faInternetExplorer,
+					link:"https://next-ecommerce1234rewq.vercel.app/"	
+				},
+			]
 		},
-		{
-			title: "hobby",
-			description: "game, listen music",
-			icons: null,
-		}
+		
 	],
 }
 
@@ -75,15 +80,24 @@ export const projects = {
 					icon: faGithub,
 					link: "https://github.com/hurhyeon/Nextshop",
 				},
+				{
+					icon:faInternetExplorer,
+					link:"https://next-ecommerce1234rewq.vercel.app/"	
+				},
 			]
 		},
 		{
-			title: "Factor",
-			description: "bicycle project",
+			title: "was",
+			description: "nextwas project",
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/star_book",
+					link: "https://github.com/hurhyeon/Nextshop",
+				},
+			
+				{
+					icon:faInternetExplorer,
+					link:""	
 				},
 				
 			]
@@ -98,6 +112,7 @@ export const projects = {
 				},
 			]
 		},
+		
 	],
 }
 
@@ -132,8 +147,8 @@ export const links = {
 	description: "중부대학교 정보호호학과 91813286 허현",
 	cards: [
 		{
-			title: "My website",
-			link: "https://hurhyeon.com/",
+			title: "My Website",
+			link: "https://portfolio-seven-zeta-38.vercel.app/",
 		},
 		
 		{
