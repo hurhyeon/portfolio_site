@@ -56,11 +56,11 @@ export const work = {
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/hurhyeon/Nextshop",
+					link: "https://github.com/hurhyeon/bicycle",
 				},
 				{
 					icon:faInternetExplorer,
-					link:"https://next-ecommerce1234rewq.vercel.app/"	
+					link:"https://bicycle-opal.vercel.app/"	
 				},
 			]
 		},
@@ -78,7 +78,7 @@ export const projects = {
 				
 				{
 					icon: faGithub,
-					link: "https://github.com/hurhyeon/Nextshop",
+					link: "https://github.com/hurhyeon/next-ecommerce-",
 				},
 				{
 					icon:faInternetExplorer,
@@ -97,7 +97,7 @@ export const projects = {
 			
 				{
 					icon:faInternetExplorer,
-					link:""	
+					link:"https://nextshop-psi.vercel.app/"	
 				},
 				
 			]
