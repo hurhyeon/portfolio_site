@@ -52,7 +52,7 @@ export const work = {
 	cards: [
 		{
 			title: "Factor",
-			description: "bicycle project",
+			description: "bicycle project ",
 			icons: [
 				{
 					icon: faGithub,
