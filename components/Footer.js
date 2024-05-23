@@ -36,7 +36,7 @@ export const Footer = () => {
 			<div className="container text-muted">
 				<small>
 				
-						<a>copyright</a>
+						<a>2024copyright</a>
 					
 					
 					
