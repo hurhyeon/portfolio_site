@@ -7,6 +7,7 @@ import { Header } from '../components/Header';
 
 const { publicRuntimeConfig } = getConfig()
 
+
 export default function Home() {
   return (
     <Fragment>
