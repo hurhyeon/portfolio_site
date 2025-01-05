@@ -5,6 +5,7 @@ import { Footer } from '../components/Footer';
 import { links, SEO, } from '../config/config';
 import { Header } from '../components/Header';
 
+
 const { publicRuntimeConfig } = getConfig()
 
 
