@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Link from 'next/link'
 
+
 export const Nav = ({ title, links }) => {
 
   const [isNavCollapsed, setIsNavCollapsed] = useState(true);
