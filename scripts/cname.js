@@ -4,6 +4,7 @@ const args = process.argv.slice(2)
 const content = args.join('\n')
 const filePath = './out/CNAME'
 
+
 /**
  * Add CNAME to the file
  * All the args are joined by new line in [content]
