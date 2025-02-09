@@ -10,12 +10,7 @@ $font-family-sans-serif: -apple-system, 'Barlow', sans-serif, "Apple Color Emoji
 $card-border-radius: 15px;
 
 
-
-
-
-
-
-// 3. Include remainder of required Bootstrap stylesheets
+// Include remainder of required Bootstrap stylesheets
 @import "~bootstrap/scss/variables";
 @import "~bootstrap/scss/maps";
 @import "~bootstrap/scss/mixins";
